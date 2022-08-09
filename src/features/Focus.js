@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
   },
   inputContainer: {
     padding:spacing.lg,
-    justifyConent: 'top',
+    justifyContent: 'top',
     flexDirection: 'row'
   },
   textInput:{
